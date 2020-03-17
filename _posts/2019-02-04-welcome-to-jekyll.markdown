@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👏欢迎来到PIKA家!"
+title:  "👏欢迎来到Poka家!"
 categories: [ Jekyll ]
 image: assets/images/welcome-to-PIKA-home.png
 ---

@@ -1,5 +1,5 @@
 # Site
-name: 'POKA家'
+name: 'Poka家'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:           POKA爸
+      name:           Poka爸
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -28,7 +28,7 @@ authors:
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
-      name:           POKA妈
+      name:           Poka妈
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: POKA爸
+      author: Poka爸
       avatar: /assets/images/avatar1.jpg
       
   # all pages
