@@ -21,6 +21,7 @@ plugins:
 authors:
     sal:
       name:           Poka爸
+      nickname:       Poka-daddy
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -29,6 +30,7 @@ authors:
 
     jane:
       name:           Poka妈
+      nickname:       Poka-mom
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
