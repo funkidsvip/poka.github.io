@@ -2,7 +2,7 @@
 layout: post
 title:  "👏欢迎来到Poka家!"
 categories: [ Jekyll ]
-image: assets/images/welcome-to-PIKA-home.png
+image: http://ww1.sinaimg.cn/large/006Zd1Mogy1gcxrfa7jnuj30e809gaai.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
