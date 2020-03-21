@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👏欢迎来到Poka家!"
+title:  "👏欢迎来到POKA家!"
 categories: [ Jekyll ]
 image: http://ww1.sinaimg.cn/large/006Zd1Mogy1gcxrfa7jnuj30e809gaai.jpg
 ---

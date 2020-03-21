@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "10件关于POKA网站的事情"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: https://ws1.sinaimg.cn/large/006Zd1Mogy1gd1m3fpdv8j30sg0lcgnc.jpg
 tags: [sticky]
 ---
 
