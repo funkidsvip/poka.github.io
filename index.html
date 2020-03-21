@@ -21,8 +21,9 @@ description: "帮助每一位家长在家庭教育中取得更大的成功，因
         <div class="col-md-6">
             <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
-                    <div class="topfirstimage"
-                        style="background-image: url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;">
+                    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains " ://"
+                        %}{{ latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height:
+                        200px; background-size: cover; background-repeat: no-repeat;">
                     </div>
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
