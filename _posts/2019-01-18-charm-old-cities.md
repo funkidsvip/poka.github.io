@@ -3,7 +3,7 @@ layout: post
 title:  "10件关于POKA网站的事情"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: https://sm.ms/image/PRn2xsOHVFrEXdG
+image: assets/images/ReadingDoodle.png
 tags: [sticky]
 ---
 
