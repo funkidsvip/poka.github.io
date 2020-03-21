@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Jekyll, tutorial ]
+title:  "孩子几岁学编程合适，我家宝宝4岁了，能学会吗，有必要学这么早吗?"
+categories: [ 编程, 早教 ]
 image: assets/images/3.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
@@ -15,7 +15,7 @@ As with the last post about the editor, you'll want to be actually editing this 
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 
-+ ~~strike through~~
++ \~\~strike through\~\~
 + ==highlight==
 + \*escaped characters\*
 
