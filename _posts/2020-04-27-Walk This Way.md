@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Walk This Way ”
+title:  "Walk This Way"
 author: sal
 categories: [ gameathome ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+image: assets/images/rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg
 ---
 
 > 活动时间：建议20～30分钟  
