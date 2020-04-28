@@ -15,8 +15,8 @@ permalink: "/games-at-home.html"
                 <span>{{ category[0] }}</span></h4>
             {% for category in site.categories %}
 
-            {% assign pages_list = category[1] %}
-            {% for post in site.categories.gamesathome %}
+            {% assign pages_list = site.categories.gamesathome %}
+            {% for post in pages_list %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
 
