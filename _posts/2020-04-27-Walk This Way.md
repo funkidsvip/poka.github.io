@@ -2,8 +2,8 @@
 layout: post
 title:  "Walk This Way"
 author: sal
-categories: [ gameathome ]
-image: assets/images/rock-n-roll-monkey-FTfjMijq-Ws-unsplash.jpg
+categories: [ gamesathome ]
+image: assets/images/lenin-estrada-OI1ToozsKBw-unsplash.jpg
 ---
 
 > 活动时间：建议20～30分钟  
