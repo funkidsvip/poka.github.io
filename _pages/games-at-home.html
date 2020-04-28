@@ -14,8 +14,6 @@ permalink: "/games-at-home.html"
             <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}">
                 <span>{{ category[0] }}</span></h4>
 
-
-            {% assign pages_list = category[1] %}
             {% for post in site.categories.gamesathome %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
