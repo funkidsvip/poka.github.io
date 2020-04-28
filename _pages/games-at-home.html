@@ -5,9 +5,6 @@ permalink: "/games-at-home.html"
 ---
 
 
-
-
-
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -19,7 +16,7 @@ permalink: "/games-at-home.html"
             {% for category in site.categories %}
 
             {% assign pages_list = category[1] %}
-            {% for post in site.categories.tutorial %}
+            {% for post in site.categories.games at home %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
 
