@@ -37,6 +37,29 @@ authors:
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
+
+# resourse
+website:
+  sal:
+    name:           JUN TAO
+    nickname:       poka-daddy
+    site:           https://www.wowthemes.net
+    avatar:         assets/images/avatar1.jpg
+    bio:            "在线教育公司产品经理，儿童玩具爱好者。观察很久我发现优秀的妈妈都是“长期主义者”!"
+    email:          funkidsvip@gmail.com
+    twitter:        https://twitter.com/wowthemesnet
+
+  jane:
+    name:           章年柒
+    nickname:       poka-mom
+    site:           https://www.wowthemes.net
+    avatar:         assets/images/avatar2.jpg
+    bio:            "幼儿园教研，前美吉姆老师，高级育婴师!"
+    email:          fakemail@gmail.com
+    twitter:        https://twitter.com/wowthemesnet
+
+
+
 # Defaults
 defaults:
 
